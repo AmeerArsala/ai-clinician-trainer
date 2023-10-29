@@ -33,7 +33,8 @@ interface RootLayoutProps {
 }
 
 export default function RootLayout({ children }: RootLayoutProps) {
-  return (
+  // surround with <ClerkProvider> for a login
+  return (    
     <ClerkProvider>
       <html lang="en" suppressHydrationWarning>
         <head />
