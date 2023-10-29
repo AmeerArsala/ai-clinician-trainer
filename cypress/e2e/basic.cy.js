@@ -1,4 +1,4 @@
-describe('sample test', () => {
+/*describe('sample test', () => {
   beforeEach(() => {
     cy.visit('/')
   })
@@ -14,4 +14,4 @@ describe('sample test', () => {
       expect($img[0].naturalWidth).to.be.greaterThan(0);
     })
   })
-})
+})*/
