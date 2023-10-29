@@ -42,4 +42,4 @@ export const config = {
 // export const config = {
 //   matcher: ['/((?!.+\\.[\\w]+$|_next).*)', '/', '/(api|trpc)(.*)'],
 //   middleware: [originalMiddleware, clerkMiddleware]
-}
+// }
