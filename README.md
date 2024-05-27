@@ -1,7 +1,5 @@
 # AI Clinician Trainer
+The frontend of DiversityGPT
 
-## MulticulturalGPT
-
-## Diversity.AI
-
-## ANRE Research
+## DiversityGPT
+...
